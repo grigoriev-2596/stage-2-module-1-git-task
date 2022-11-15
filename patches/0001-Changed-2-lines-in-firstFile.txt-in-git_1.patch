@@ -1,0 +1,24 @@
+From 6b09e4eff322e9e575dc67ba926bc59a49db2bb9 Mon Sep 17 00:00:00 2001
+From: grigoriev-2596 <grigoriev.egor2596@gmail.com>
+Date: Mon, 14 Nov 2022 17:48:08 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 71d1f7f..ffd0e28 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-f
+-f
++u git_1
++u git_1
+ f
+ f
+ f
+-- 
+2.35.1.windows.2
+
